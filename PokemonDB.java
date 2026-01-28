@@ -6,7 +6,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import javax.imageio.ImageIO;
 
-public class PokemonDarkDB extends JFrame {
+public class PokemonDB extends JFrame {
 
     // Componenti UI
     private JTextField searchField;
